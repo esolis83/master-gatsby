@@ -1,0 +1,20 @@
+{
+    "name": "simple-todo-app-with-vue",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "serve": "vue-cli-service serve",
+        "build": "vue-cli-service build",
+        "lint": "vue-cli-service lint"
+    },
+    "description": "A very simple todo app to provide a taste of developing with single-file components.",
+    "keywords": [],
+    "main": "main.js",
+    "dependencies": {
+        "json": "9.0.6",
+        "node.js": "0.0.1-security",
+        "vue": "2.6.11",
+        "vuetify": "2.2.29",
+        "webpack": "4.43.0"
+    }
+}
